@@ -36,7 +36,7 @@ Then, place it in `dataset/others`.
 
 ### Metrics.py
 
-1. Run `calc_metric.py`. For artificial dataset, selected dimensionality and benefit are shown in command line. For real-world datasets , selected dimensionality and AUC are shown in command line. At the same time, the figures of each criterion are generated in `results`.
+1. Run `calc_metric.py`. For artificial dataset, selected dimensionality and benefit are shown in command line. For scientific collaboration networks, selected dimensionalities and AUC are shown in command line. For WN-mammal, the selected dimensionalities and is-a scores are shown in command line. At the same time, the figures of each criterion are generated in `results`.
 
 ## 4. Author & Mail address
 Currently anonymous.
